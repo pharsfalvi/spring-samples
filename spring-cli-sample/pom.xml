@@ -21,15 +21,6 @@
             <groupId>org.springframework.shell</groupId>
             <artifactId>spring-shell-starter</artifactId>
         </dependency>
-
-        <!-- Depend on Shell 1 to use Shell 1 API -->
-        <dependency>
-            <groupId>org.springframework.shell</groupId>
-            <artifactId>spring-shell</artifactId>
-        </dependency>
-
-
-
     </dependencies>
 
 
